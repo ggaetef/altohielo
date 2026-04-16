@@ -1,4 +1,4 @@
-export const WHATSAPP_NUMBER = "56953662481";
+export const WHATSAPP_NUMBER = "56950008228";
 export const INSTAGRAM_URL = "https://www.instagram.com/altohielochile";
 
 export function waLink(message: string) {

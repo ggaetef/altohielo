@@ -42,8 +42,8 @@ export default function Footer() {
             <ul className="mt-4 space-y-2 text-sm text-ink/70">
               <li>Linares, Chile</li>
               <li>
-                <a className="hover:text-ink" href="tel:+56953662481">
-                  +56 9 5366 2481
+                <a className="hover:text-ink" href="tel:+56950008228">
+                  +56 9 5000 8228
                 </a>
               </li>
             </ul>

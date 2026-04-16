@@ -29,9 +29,9 @@ export default function CTA() {
             </a>
             <a
               className="inline-flex items-center gap-2 text-sm text-snow/70 underline-offset-4 hover:text-snow hover:underline"
-              href="tel:+56953662481"
+              href="tel:+56950008228"
             >
-              +56 9 5366 2481
+              +56 9 5000 8228
             </a>
           </div>
 
