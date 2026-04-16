@@ -6,10 +6,11 @@ import { useEffect, useState } from "react";
 import { waLink } from "@/lib/whatsapp";
 
 const items = [
-  { href: "#productos", label: "Productos" },
-  { href: "#clientes", label: "Clientes" },
-  { href: "#proceso", label: "Proceso" },
-  { href: "#contacto", label: "Contacto" },
+  { href: "/#productos", label: "Productos" },
+  { href: "/#clientes", label: "Clientes" },
+  { href: "/#proceso", label: "Proceso" },
+  { href: "/blog", label: "Blog" },
+  { href: "/#contacto", label: "Contacto" },
 ];
 
 export default function Nav() {

@@ -1,0 +1,36 @@
+# Alto Hielo — Frío de altura
+
+> Productor de hielo premium en Linares, Región del Maule, Chile. Cubos de 40 gramos y hielo frappé para bares, restaurantes, banqueteras, almacenes y hogar. Pedido por WhatsApp, entrega coordinada.
+
+## Qué hacemos
+
+Alto Hielo produce y distribuye dos tipos de hielo:
+
+- **Cubos premium de 40 g** en bolsas de 1 kg, 2 kg y 10 kg. Diseñados para durar más en el vaso y enfriar la bebida sin diluir el sabor.
+- **Hielo frappé** en bolsas de 10 kg. Textura molida fina, pensado para coctelería de especialidad.
+
+El agua pasa por varias etapas de filtrado antes de congelarse, lo que da cubos transparentes, firmes y sin sabor residual. Los cubos vienen separados dentro de la bolsa, listos para servir.
+
+## A quién atendemos
+
+Linares y la Región del Maule, Chile. Clientes típicos: bares, discoteques, restaurantes, cafeterías, banqueteras, almacenes de barrio y público final (hogar).
+
+## Cómo pedir
+
+Por WhatsApp al +56 9 5000 8228. Cotización y coordinación de entrega en minutos. Trabajamos con pedidos puntuales y frecuencias fijas (diaria, semanal) para negocios con demanda continua.
+
+## Enlaces principales
+
+- Inicio: https://altohielo.vercel.app/
+- Productos: https://altohielo.vercel.app/#productos
+- Blog: https://altohielo.vercel.app/blog
+- WhatsApp: https://wa.me/56950008228
+- Instagram: https://www.instagram.com/altohielochile
+
+## Guías y recursos
+
+- Venta de hielo en Linares: https://altohielo.vercel.app/blog/venta-de-hielo-en-linares
+- Dónde comprar hielo premium en Linares, Maule: https://altohielo.vercel.app/blog/donde-comprar-hielo-premium-en-linares-maule
+- Hielo a domicilio en Linares: https://altohielo.vercel.app/blog/hielo-a-domicilio-en-linares
+- Guía para bares, restaurantes y banqueteras: https://altohielo.vercel.app/blog/guia-hielo-bar-restaurante-banquetera
+- Guía completa del hielo (hogar y eventos): https://altohielo.vercel.app/blog/guia-completa-del-hielo

@@ -8,10 +8,12 @@ import Galeria from "@/components/Galeria";
 import CTA from "@/components/CTA";
 import Footer from "@/components/Footer";
 import WhatsAppFloat from "@/components/WhatsAppFloat";
+import LocalBusinessSchema from "@/components/LocalBusinessSchema";
 
 export default function Home() {
   return (
     <main>
+      <LocalBusinessSchema />
       <Nav />
       <Hero />
       <Manifiesto />

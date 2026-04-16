@@ -23,18 +23,19 @@ export default function Footer() {
           <div>
             <p className="text-eyebrow uppercase text-ink/40">Productos</p>
             <ul className="mt-4 space-y-2 text-sm text-ink/70">
-              <li><a href="#productos" className="hover:text-ink">Cubo 1 kg</a></li>
-              <li><a href="#productos" className="hover:text-ink">Cubo 2 kg</a></li>
-              <li><a href="#productos" className="hover:text-ink">Cubo 10 kg</a></li>
-              <li><a href="#productos" className="hover:text-ink">Frappé 10 kg</a></li>
+              <li><a href="/#productos" className="hover:text-ink">Cubo 1 kg</a></li>
+              <li><a href="/#productos" className="hover:text-ink">Cubo 2 kg</a></li>
+              <li><a href="/#productos" className="hover:text-ink">Cubo 10 kg</a></li>
+              <li><a href="/#productos" className="hover:text-ink">Frappé 10 kg</a></li>
             </ul>
           </div>
           <div>
             <p className="text-eyebrow uppercase text-ink/40">Compañía</p>
             <ul className="mt-4 space-y-2 text-sm text-ink/70">
-              <li><a href="#clientes" className="hover:text-ink">Clientes</a></li>
-              <li><a href="#proceso" className="hover:text-ink">Proceso</a></li>
-              <li><a href="#contacto" className="hover:text-ink">Contacto</a></li>
+              <li><a href="/#clientes" className="hover:text-ink">Clientes</a></li>
+              <li><a href="/#proceso" className="hover:text-ink">Proceso</a></li>
+              <li><a href="/blog" className="hover:text-ink">Blog</a></li>
+              <li><a href="/#contacto" className="hover:text-ink">Contacto</a></li>
             </ul>
           </div>
           <div className="col-span-2 sm:col-span-1">

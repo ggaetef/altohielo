@@ -30,7 +30,7 @@ const products: Product[] = [
     name: "Cubo 10 kg",
     type: "Cubo",
     size: "10 kg",
-    desc: "Formato profesional. Bares, restaurantes, banqueteras y almacenes.",
+    desc: "Formato profesional. Bares, restaurantes, banqueteras, almacenes y grandes eventos.",
     image: "/img/cristal.png",
   },
   {
