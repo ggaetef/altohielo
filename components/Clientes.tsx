@@ -8,7 +8,7 @@ const segments = [
   },
   {
     icon: Martini,
-    title: "Discotheque",
+    title: "Discoteque",
     desc: "Volumen, velocidad y estética. Hielo que acompaña la noche.",
   },
   {
